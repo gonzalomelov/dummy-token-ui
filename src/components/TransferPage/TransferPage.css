@@ -1,0 +1,5 @@
+.TransferPage .error {
+  margin-top: 20px;
+  color: var(--primary);
+  max-width: 420px;
+}
